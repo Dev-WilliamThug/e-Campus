@@ -1,4 +1,4 @@
-I- Architecture du projet
+I- Architecture du projet :
   On est sur une architecture Hybride et sur un modèle Hybride c'est à dire que :
     1- Dans Areas vous verrez que j'ai séparé le dossier en fonction des acteurs car ça va laissé plus de flexibilité à chacun ( Sans oubliez qu'il y'a une maquette qu'on 
     s'est dit qu'on va respecter celle de Darla ) ce qui veut dire que chacun d'entre nous va travaillez là dans son dossier la plupart du temps ce sera pour le rendu 
@@ -8,7 +8,7 @@ I- Architecture du projet
     Chose qu'on aura en commun en fonction des modules.
   
 
-II- ROle des dossiers
+II- ROle des dossiers :
   Le dossier Areas c'est pour séparer l'application en fonction de chaque acteur (Principalement en terme de rendu) chacun d'entre nous ecrira le code des différentes
   vues lié à son acteurs.
   Le dossier Views va contenir les vues et les composants que tout nos modules partage par exemple la page de connexion 
